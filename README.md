@@ -1,6 +1,6 @@
 # HKD Space Reclaimer
 
-python3 free_space_hkd.py --target-free-gb 10 --apply
+python3 free_space.py --target-free-gb 10 --apply
 
 ## SYNOPSIS
 
