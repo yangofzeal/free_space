@@ -1,5 +1,7 @@
 # HKD Space Reclaimer
 
+python3 free_space_hkd.py --target-free-gb 10 --apply
+
 ## SYNOPSIS
 
 `free_space.py` is a fast, conservative disk-space reclamation utility using persistent HKD-style filesystem state where available.
